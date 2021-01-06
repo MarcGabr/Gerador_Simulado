@@ -1,0 +1,65 @@
+<Logica.Prova>
+  <assuntos class="Logica.Prova$1" serialization="custom">
+    <unserializable-parents/>
+    <list>
+      <default>
+        <size>2</size>
+      </default>
+      <int>2</int>
+      <Logica.Assunto>
+        <nome>MAE</nome>
+        <ativo>false</ativo>
+        <quantidade>0</quantidade>
+        <data class="Logica.Assunto$1" serialization="custom">
+          <date>
+            <long>1531785531863</long>
+          </date>
+          <Logica.Assunto_-1>
+            <default>
+              <outer-class reference="../../../.."/>
+            </default>
+          </Logica.Assunto_-1>
+        </data>
+      </Logica.Assunto>
+      <Logica.Assunto>
+        <nome>SDFSAD</nome>
+        <ativo>true</ativo>
+        <quantidade>1</quantidade>
+        <data class="Logica.Assunto$1" serialization="custom">
+          <date>
+            <long>1531786441311</long>
+          </date>
+          <Logica.Assunto_-1>
+            <default>
+              <outer-class reference="../../../.."/>
+            </default>
+          </Logica.Assunto_-1>
+        </data>
+      </Logica.Assunto>
+    </list>
+    <Logica.Prova_-1>
+      <default>
+        <outer-class reference="../../../.."/>
+      </default>
+    </Logica.Prova_-1>
+  </assuntos>
+  <questoes class="Logica.Prova$2" serialization="custom">
+    <unserializable-parents/>
+    <list>
+      <default>
+        <size>1</size>
+      </default>
+      <int>1</int>
+      <Logica.QuestaoAberta>
+        <pergunta>ASDASDA</pergunta>
+        <assunto reference="../../../../assuntos/list/Logica.Assunto[2]"/>
+        <resposta>AASDASD</resposta>
+      </Logica.QuestaoAberta>
+    </list>
+    <Logica.Prova_-2>
+      <default>
+        <outer-class reference="../../../.."/>
+      </default>
+    </Logica.Prova_-2>
+  </questoes>
+</Logica.Prova>

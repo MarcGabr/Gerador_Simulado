@@ -1,0 +1,2 @@
+projeto criado na IDE netbeans
+é recomendado o uso da mesma para a melhor visualição do codigo fonte do projeto

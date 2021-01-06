@@ -1,0 +1,68 @@
+<Logica.Prova>
+  <assuntos class="Logica.Prova$1" serialization="custom">
+    <unserializable-parents/>
+    <list>
+      <default>
+        <size>1</size>
+      </default>
+      <int>1</int>
+      <Logica.Assunto>
+        <nome>VILA</nome>
+        <ativo>true</ativo>
+        <quantidade>1</quantidade>
+        <data class="Logica.Assunto$1" serialization="custom">
+          <date>
+            <default/>
+            <long>1531786030672</long>
+          </date>
+          <Logica.Assunto_-1>
+            <default>
+              <outer-class reference="../../../.."/>
+            </default>
+          </Logica.Assunto_-1>
+        </data>
+      </Logica.Assunto>
+    </list>
+    <Logica.Prova_-1>
+      <default>
+        <outer-class reference="../../../.."/>
+      </default>
+    </Logica.Prova_-1>
+  </assuntos>
+  <questoes class="Logica.Prova$2" serialization="custom">
+    <unserializable-parents/>
+    <list>
+      <default>
+        <size>1</size>
+      </default>
+      <int>1</int>
+      <Logica.QuestaoMultiplaEscolhaCom>
+        <pergunta>QUAL A MELHOR VILA?</pergunta>
+        <assunto reference="../../../../assuntos/list/Logica.Assunto"/>
+        <alternativa>
+          <string>VILA DE PEOPLE	</string>
+          <string>ASLFIDSFKIDSFJDSJFIOS JFIODSJF
+SDF
+DS F
+DS F
+S DF
+DS
+</string>
+          <string>DSKKS</string>
+          <string>IMPRIMIR</string>
+        </alternativa>
+        <resposta>
+          <boolean>true</boolean>
+          <boolean>true</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+        </resposta>
+      </Logica.QuestaoMultiplaEscolhaCom>
+    </list>
+    <Logica.Prova_-2>
+      <default>
+        <outer-class reference="../../../.."/>
+      </default>
+    </Logica.Prova_-2>
+  </questoes>
+</Logica.Prova>
